@@ -6,7 +6,7 @@
 text = []
 text = input("Text:\n")
 
-
+euee
 half = []
 
 def splitter(string):
